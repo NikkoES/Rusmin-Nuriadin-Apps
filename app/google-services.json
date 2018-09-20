@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "855226306705",
+    "firebase_url": "https://rusmin-243d9.firebaseio.com",
+    "project_id": "rusmin-243d9",
+    "storage_bucket": "rusmin-243d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855226306705:android:da59b431f0629118",
+        "android_client_info": {
+          "package_name": "com.pantaurelawan.rusmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855226306705-ksrsusas3eh36c2j6g65j3ogr7j0lr44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pantaurelawan.rusmin",
+            "certificate_hash": "9a7bfe8aef64d4a49f77f7aa48eb09d6ac88bf2b"
+          }
+        },
+        {
+          "client_id": "855226306705-8h22oun04ugt5ncpja2vupusgvs8atht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA1QM7l7yVC6z8NCfZwgWFrDiR4raGP94"
+        },
+        {
+          "current_key": "AIzaSyDA1QM7l7yVC6z8NCfZwgWFrDiR4raGP94"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855226306705-8h22oun04ugt5ncpja2vupusgvs8atht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
